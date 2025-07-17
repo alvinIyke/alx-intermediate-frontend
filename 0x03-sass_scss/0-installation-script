@@ -1,0 +1,4 @@
+#Steps Taken to install SASS
+I already have node installed on my computer.
+I tried using the command npm install sass -v 3.7.4 but this did not work.
+I used npm install -g sass which worked.
